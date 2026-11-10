@@ -6,7 +6,7 @@
 <!-- Typing SVG Animation (Vibrant Green) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=1st+Year+B.Tech+CSE+(AI)+Student+%F0%9F%8E%93;Exploring+AI%2FML%2C+Full-Stack+Web+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Solutions+for+Smart+India+Hackathon+%F0%9F%9A%80;Gamer+%F0%9F%8E%AE+%7C+Singing+%F0%9F%8E%A4+%7C+Lifelong+Learner+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=1st+Year+B.Tech+CSE+(AI)+Student+%F0%9F%8E%93;Exploring+AI%2FML%2C+Full-Stack+Web+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Solutions+for+Smart+India+Hackathon+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -80,12 +80,7 @@
 ---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanketkori8529&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
----
 
 ### 🐍 My Contribution Snake
 <div align="center">
