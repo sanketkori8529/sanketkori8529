@@ -1,18 +1,18 @@
-<!-- Animated Waving Header -->
+<!-- Animated Waving Header (Dark Blue -> Red -> Green Gradient) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=190&section=header&text=Hey%20there,%20I'm%20Sanket%20Kori!%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20(AI)%20Student%20%7C%20Tech%20Explorer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:E63946,100:10B981&height=190&section=header&text=Hey%20there,%20I'm%20Sanket%20Kori!%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20(AI)%20Student%20%7C%20Tech%20Explorer&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- Typing SVG Animation -->
+<!-- Typing SVG Animation (Vibrant Green) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=1st+Year+B.Tech+CSE+(AI)+Student+%F0%9F%8E%93;Exploring+AI%2FML%2C+Full-Stack+Web+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Solutions+for+Smart+India+Hackathon+%F0%9F%9A%80;Gamer+%F0%9F%8E%AE+%7C+Singer+%F0%9F%8E%A4+%7C+Lifelong+Learner+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=1st+Year+B.Tech+CSE+(AI)+Student+%F0%9F%8E%93;Exploring+AI%2FML%2C+Full-Stack+Web+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Solutions+for+Smart+India+Hackathon+%F0%9F%9A%80;Gamer+%F0%9F%8E%AE+%7C+Singer+%F0%9F%8E%A4+%7C+Lifelong+Learner+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Profile Views Badge -->
+<!-- Profile Views Badge (Crimson Red) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanketkori8529&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sanketkori8529&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
 - 🎓 I’m a **1st-year B.Tech CSE (Artificial Intelligence)** student at **ABESIT, Ghaziabad**.
 - 💡 Currently working on a problem statement project for the **Smart India Hackathon (SIH)**.
 - 🌱 Actively learning **Full-Stack Web Development**, while exploring **AI/ML** and **Cloud Computing**.
-- 🎯 gearing up for **Data Structures & Algorithms (DSA)** and problem-solving on **LeetCode & GeeksforGeeks**.
+- 🎯 Gearing up for **Data Structures & Algorithms (DSA)** and problem-solving on **LeetCode & GeeksforGeeks**.
 - ⚡ **Fun Fact:** When I’m not coding, you’ll find me **singing 🎤, gaming 🎮, or exploring new places 🌍**.
 - 📫 Reach out to me at: **[sanketkori8529@gmail.com](mailto:sanketkori8529@gmail.com)**
 
@@ -30,13 +30,13 @@
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/sanket-kori-66a273398" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A192F.svg?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/sanket_29.01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E63946.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:sanketkori8529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -67,28 +67,25 @@
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketkori8529&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-</div>
-
----
-
 ### 📊 GitHub Analytics & Streak
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <!-- Custom Dark Blue BG (#0A192F), Red Titles (#E63946), and Green Icons/Text (#10B981) -->
+  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="175em" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="175em" src="https://streak-stats.demolab.com/?user=sanketkori8529&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sanketkori8529&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanketkori8529&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ---
 
@@ -101,8 +98,8 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=100&section=footer" width="100%" />
+<!-- Footer Wave (Dark Blue -> Red -> Green Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:E63946,100:10B981&height=100&section=footer" width="100%" />
