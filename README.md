@@ -67,15 +67,15 @@
 
 ---
 
+
 ### 📊 GitHub Analytics & Streak
 <div align="center">
-  <!-- Custom Dark Blue BG (#0A192F), Red Titles (#E63946), and Green Icons/Text (#10B981) -->
-  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="175em" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=false" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 <br/>
