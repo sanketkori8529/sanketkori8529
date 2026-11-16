@@ -29,9 +29,8 @@
 ---
 <h3 align="center">📊 GitHub Analytics & Streak</h3>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&ring_color=E63946&border_color=10B981&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&v=1794831954" alt="Sanket's GitHub Stats" />
-   
-  <img height="180" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&border=10B981&border_radius=10&hide_border=false&v=1794831954" alt="Sanket's GitHub Streak" />
+  <img height="155" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&ring_color=E63946&border_color=10B981&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Sanket's GitHub Stats" />
+  <img height="155" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&border=10B981&border_radius=10&hide_border=false" alt="Sanket's GitHub Streak" />
 </div>
 <br/>
 
