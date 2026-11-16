@@ -1,0 +1,29 @@
+name: Refresh README Stats
+
+on:
+  schedule:
+    # Runs automatically every day at 5:30 AM IST (00:00 UTC)
+    - cron: "0 0 * * *"
+  # Adds a manual "Run workflow" button in your Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update cache-buster version in README
+        run: |
+          python3 -c "import re, time; p='README.md'; s=open(p).read(); open(p,'w').write(re.sub(r'&v=\d+', f'&v={int(time.time())}', s))"
+
+      - name: Commit and push updated README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh README stats" && git push)
