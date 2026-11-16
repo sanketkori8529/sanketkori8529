@@ -29,15 +29,23 @@
 ---
 ### 📊 GitHub Analytics & Streak
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&ring_color=E63946&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&v=4" alt="Sanket's GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true&v=4" alt="Sanket's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&icon_color=10B981&ring_color=E63946&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&v=5" alt="Sanket's GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sanketkori8529&background=0A192F&ring=E63946&fire=E63946&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&hide_border=true&v=5" alt="Sanket's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&hide_border=true&layout=compact&cache_seconds=1800&v=4" alt="Most Used Languages" />
+  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanketkori8529&bg_color=0A192F&title_color=E63946&text_color=10B981&hide_border=true&layout=compact&cache_seconds=1800&v=5" alt="Most Used Languages" />
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=sanketkori8529&icon=0&color=0" alt="Profile Views" />
+  </a>
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ---
